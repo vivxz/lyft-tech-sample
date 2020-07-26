@@ -1,0 +1,16 @@
+{
+  "name": "lyft-tech-sample",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/vivxz/lyft-tech-sample.git",
+  "author": "<viviannquan@gmail.com>",
+  "license": "MIT",
+  "scripts": {
+    "start:express": "node express.js",
+    "start:node": "node node.js"
+  },
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "express": "^4.17.1"
+  }
+}
